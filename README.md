@@ -9,8 +9,8 @@ Macropad is a keypad that can perform macros and other functions using a microco
 - Cheap material but nice durability
 - Can be customized
 - Perfect fit for gamer
-- Wired connection for fast response
-- Without battery and light
+- Wired connection
+- Without battery and lightweight
 
 # Materials and Tools
 - Arduino Pro Micro
