@@ -21,4 +21,4 @@ Macropad is a keypad that can perform macros and other functions using a microco
 - Enclosure *(You need to 3d printer or use online services.)*
 - Other useful tools in your house
 
-# MORE UPDATE COMING SOON! AFTER I FINISHED THIS PROJECT
+# MORE UPDATE COMING SOON, AFTER I FINISHED THIS PROJECT.
