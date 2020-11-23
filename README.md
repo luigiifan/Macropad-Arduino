@@ -1,14 +1,9 @@
-# What is Macropad
-Macropad is a keypad that can perform macros and other functions using a microcontroller and scripts.
-
-# Pro Feature
-- Macros for gaming and coding
+# Macropad Feature
+- Advanced Macros
 - Multiple Panel with different functions
-- GUI for the navigation panel
-- Easy to program but not easy for beginners
-- Cheap material but nice durability
+- Has a GUI
+- Easy to program
 - Can be customized
-- Perfect fit for gamer
 - Wired connection
 - Without battery and lightweight
 
