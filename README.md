@@ -1,4 +1,4 @@
-# macropad-pro
+# What is Macropad
 Macropad is a keypad that can perform macros and other functions using a microcontroller and scripts.
 
 # Pro Feature
