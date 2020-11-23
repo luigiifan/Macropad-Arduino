@@ -2,8 +2,8 @@
 Macropad is a keypad that can perform macros and other functions using a microcontroller and scripts.
 
 # Pro Feature
-- Macros (For gaming and coding)
-- Multiple Panel (Different Function)
+- Macros for gaming and coding
+- Multiple Panel with different Functions
 - GUI for the navigation panel
 - Easy to program but not easy for beginners *(Unless you watched all the tutorials I gave below.)*
 - Cheap but High Quality Material
@@ -12,8 +12,8 @@ Macropad is a keypad that can perform macros and other functions using a microco
 
 # Materials and Tools
 - Arduino Pro Micro
-- Gateron KS-9 Blue Switch (8x)
-- Blank Keycaps / Custom Keycaps (8x)
+- Gateron KS-9 Blue Switch
+- Blank Keycaps / Custom Keycaps
 - Wires
 - Solder and Solder Tin
 - Enclosure *(You need to 3d printer or use online services.)*
