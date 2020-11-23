@@ -5,10 +5,10 @@ Macropad is a keypad that can perform macros and other functions using a microco
 - Macros (For gaming and coding)
 - Multiple Panel (Different Function)
 - GUI for the navigation panel
-- Easy to program but not easy for beginners *(Unless you watched all the tutorials I gave below.)
+- Easy to program but not easy for beginners *(Unless you watched all the tutorials I gave below.)*
 - Cheap but High Quality Material
 - Can be customized
-- Perfect fit for gamer and programmer *(Nice.)
+- Perfect fit for gamer and programmer *(Nice.)*
 
 # Materials and Tools
 - Arduino Pro Micro
@@ -16,6 +16,6 @@ Macropad is a keypad that can perform macros and other functions using a microco
 - Blank Keycaps / Custom Keycaps (8x)
 - Wires
 - Solder and Solder Tin
-- Enclosure *(You need to 3d printer or use online services.)
+- Enclosure *(You need to 3d printer or use online services.)*
 
 # MORE UPDATE COMING SOON! AFTER I FINISHED THIS PROJECT
