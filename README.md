@@ -1,11 +1,10 @@
 # Macropad Feature
 - Advanced Macros
 - Multiple Panel with different functions
-- Has a GUI
+- Notification
 - Easy to program
 - Can be customized
 - Wired connection
-- Without battery and lightweight
 
 # Materials and Tools
 - Arduino Pro Micro
