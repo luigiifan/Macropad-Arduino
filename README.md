@@ -25,5 +25,3 @@ Big Thanks:
 - AHK Community
 
 to help me build this project.
-
-# MORE UPDATE COMING SOON, AFTER I FINISHED THIS PROJECT.
