@@ -24,4 +24,4 @@ Big Thanks:
 - MakeAndyMake
 - AHK Community
 
-to help me build this project.
+for helping me build this project.
