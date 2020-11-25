@@ -14,4 +14,16 @@
 - Solder and Solder Tin
 - Enclosure *(You need to 3d printer or use online services.)*
 
+# Credit
+Big Thanks:
+- CivReborn
+- Foster P
+- Brian Lough
+- Constantijn
+- Sephtronics
+- MakeAndyMake
+- AHK Community
+
+to help me build this project.
+
 # MORE UPDATE COMING SOON, AFTER I FINISHED THIS PROJECT.
