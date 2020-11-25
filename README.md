@@ -14,6 +14,5 @@
 - Wires
 - Solder and Solder Tin
 - Enclosure *(You need to 3d printer or use online services.)*
-- Other useful tools in your house
 
 # MORE UPDATE COMING SOON, AFTER I FINISHED THIS PROJECT.
