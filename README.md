@@ -12,7 +12,7 @@
 - Blank Keycaps / Custom Keycaps
 - Wires
 - Solder and Solder Tin
-- Enclosure *(You need to 3d printer or use online services.)*
+- Enclosure *(You need 3d printer or use online services.)*
 
 # Credit
 Big Thanks:
