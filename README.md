@@ -9,7 +9,7 @@
 
 # Materials and Tools
 - Arduino Pro Micro
-- Gateron KS-9 Blue Switch
+- Gateron KS-9 Green Switch
 - Blank Keycaps / Custom Keycaps
 - Wires
 - Solder and Solder Tin
