@@ -1,10 +1,5 @@
-# Macropad Feature
-- Advanced Macros
-- Multiple Panel with different functions
-- Notification
-- Easy to program
-- Can be customized
-- Wired connection
+# Introduction
+Right away, why did I make this thing? its purpose is to make it easier for me to use keyboard shortcuts with just one key. with one button you can perform keyboard combinations like ctrl + c and ctrl + v instantly. Initially I wanted to use Autohotkey but it seemed useless because some keys are rarely used, so I just used Arduino as the base program. I set each key from F2-F5 so that it can be set to keyboard shortcuts in programs like OBS, Discord, Visual Studio Code, and others.
 
 # Materials and Tools
 - Arduino Pro Micro
