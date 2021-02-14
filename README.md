@@ -5,6 +5,4 @@ It's easier for me to use keyboard shortcuts with just one button. I set each ke
 - Arduino Pro Micro
 - Gateron KS-9 Green Switch
 - Blank Keycaps / Custom Keycaps
-- Wires
-- Solder and Solder Tin
-- Enclosure *(You need 3d printer or use online services.)*
+- Enclosure
