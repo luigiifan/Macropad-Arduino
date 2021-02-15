@@ -1,4 +1,7 @@
-# What you need
+# About
+Macropad using Arduino Pro Micro. Possibility to combine with Auto Hotkey. <br>
+<br>
+What you need:
 - Arduino Pro Micro
 - Gateron KS-9 Green Switch
 - Blank Keycaps / Custom Keycaps
