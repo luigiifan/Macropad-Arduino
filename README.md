@@ -1,2 +1,2 @@
 # About
-Macropad using Arduino Pro Micro. Possibility to combine with Auto Hotkey. <br>
+Macropad using Arduino Pro Micro without AutoHotkey.
